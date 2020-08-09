@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic tac toe</string>
+    <string name="hint_username_1">Nombre usuario 1</string>
+    <string name="hint_username_2">Nombre usuario 2</string>
+    <string name="boton_inicial">!A jugar!</string>
+    <string name="nombre_jugador_1_vacio">El nombre del jugador 1 no puede estar vacio</string>
+    <string name="nombre_jugador_2_vacio">El nombre del jugador 2 no puede estar vacio</string>
+    <string name="player_is_playing">Es el turno de $$</string>
+    <string name="player_won">$$ ganó</string>
+    <string name="reset_game">Reiniciar juego</string>
+</resources>
